@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff6d8;
+}
+h1, h2{
+    color: #906718;
+}
+h3{
+  background-color: #d48b00;
+  padding-left: 10px;
+  color: white;
+}
+p{
+    text-align: justify;
+    margin-top: 15px;
+    text-indent: 25px;
+}
+hr{
+    margin: 10px 0px 40px 0px;
+    border: 3px dashed#d48b00;
+}
+#sidebar{
+    position: fixed;
+    height: 100vh;
+    width: 80px;
+    background-image: url("../images/cabecalhos_back.png");
+    background-repeat:repeat-y;
+}
+main{
+    margin-left: 80px;
+    padding: 20px;
+}

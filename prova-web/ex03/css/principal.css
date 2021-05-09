@@ -1,0 +1,27 @@
+body{
+    padding-inline: 40px;
+}
+
+h2{
+    background-color: #7faeb7;
+    padding-left: 5px;
+}
+hr{
+    border: 2px solid #7faeb7;
+}
+p a{
+    color:#004552;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+p a:visited{
+    color: #c9e0e5;
+    
+}
+p a:hover{
+    color: #ffa700;
+}
+a img:hover {
+    border: solid 7px #ffa700;
+}
