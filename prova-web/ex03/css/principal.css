@@ -9,7 +9,7 @@ h2{
 hr{
     border: 2px solid #7faeb7;
 }
-p a{
+p a:link{
     color:#004552;
     font-weight: 900;
     text-decoration: none;
